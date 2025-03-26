@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building professional websites and web applications using **Laravel**, **Android**, and **UI/UX design** tools like **Figma** and **Adobe XD**.<br>
+🔭 Currently building professional websites and web applications using **Laravel**, **Android**, and **UI/UX design** tools like **Figma** and **XD**.<br>
 👯 Open to collaborations on web and mobile app development.<br>
 🤝 Seeking to grow my client base, improve SEO skills, and explore freelance or international opportunities.<br>
 💬 Ask me about Laravel, front-end development, UI/UX design, performance optimization, Android apps, and hosting.
