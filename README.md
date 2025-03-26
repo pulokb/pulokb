@@ -69,4 +69,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=pulokb&icon=5&color=12)](https://visitcount.itsvg.in)
 
+
+![snake gif](https://raw.githubusercontent.com/pulokb/pulokb/output/github-contribution-grid-snake.svg)
+
+
 <!-- Proudly customized by Pulok with 💙 using GPRM: https://gprm.itsvg.in -->
